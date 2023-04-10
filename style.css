@@ -1,0 +1,21 @@
+.form-control-focus {
+    box-shadow: none;
+}
+
+.yellow-gradient {
+    background: linear-gradient(to bottom, #FF9C35, #FFD019);
+    }
+
+    .section-bg {
+      background-color: #F4F4F4;
+    }
+
+    input#Email {
+        border-radius: 5px 0 0 5px;
+    }
+
+    button[type="submit"] {
+        border-radius: 0 5px 5px 0;
+    }
+
+    
